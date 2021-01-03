@@ -1,0 +1,26 @@
+HISTORY:
+
+>Winning point(s): 3 
+Your point(s): 0 
+ opponent's point(s): 3 
+Result: You lost
+
+>Winning point(s): 3 
+Your point(s): 0 
+ opponent's point(s): 3 
+Result: You lost
+
+>Winning point(s): 3 
+Your point(s): 3 
+ opponent's point(s): 1 
+Result: You won
+
+>Winning point(s): 3 
+Your point(s): 1 
+ opponent's point(s): 3 
+Result: You lost
+
+>Winning point(s): 3 
+Your point(s): 2 
+ opponent's point(s): 3 
+Result: You lost
